@@ -40,7 +40,9 @@ streamlit run frontend.py
 
 ## Screenshots
 
-![Streamlit UI](screenshot.png)
+<img width="1912" height="972" alt="image" src="https://github.com/user-attachments/assets/ab43cbe9-f636-476b-8688-b4a1bfd20873" />
+
+
 
 
 
