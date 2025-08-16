@@ -24,9 +24,13 @@ A FastAPI backend + Streamlit frontend app that scrapes Shopify stores for deep 
 - Python, FastAPI, MySQL, BeautifulSoup<br><br>
 - Streamlit (UI), Render (Deployment)
 
-## Demo
-🌐 [Live Demo (Streamlit)](https://deepsolv-postgresql.onrender.com/docs)
 
+## 🔗 Live Links
+
+- 🌐 [FastAPI Backend (Docs)](https://deepsolv-postgresql.onrender.com/docs)  
+- 🎨 [Streamlit Frontend App](https://deepsolvappql-mcs8awqdrtg6w5fvc9e6a2.streamlit.app/)
+
+- 
 ## 🚀 How to Run Locally
 
 # 1. Clone repo
@@ -50,6 +54,7 @@ streamlit run frontend.py
 ## Screenshots
 
 <img width="1912" height="972" alt="image" src="https://github.com/user-attachments/assets/ab43cbe9-f636-476b-8688-b4a1bfd20873" />
+
 
 
 
