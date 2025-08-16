@@ -21,7 +21,7 @@ A FastAPI backend + Streamlit frontend app that scrapes Shopify stores for deep 
 
 
 ## Tech Stack
-- Python, FastAPI, MySQL, BeautifulSoup<br>
+- Python, FastAPI, MySQL, BeautifulSoup<br><br>
 - Streamlit (UI), Render (Deployment)
 
 ## Demo
@@ -41,6 +41,7 @@ streamlit run frontend.py
 ## Screenshots
 
 ![Streamlit UI](screenshot.png)
+
 
 
 
