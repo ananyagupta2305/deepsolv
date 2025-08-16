@@ -25,7 +25,7 @@ A FastAPI backend + Streamlit frontend app that scrapes Shopify stores for deep 
 - Streamlit (UI), Render (Deployment)
 
 ## Demo
-🌐 [Live Demo (Streamlit)]([https://yourname-shopify.streamlit.app](https://deepsolv-postgresql.onrender.com/docs))
+🌐 [Live Demo (Streamlit)]([https://deepsolv-postgresql.onrender.com/docs])
 
 ## 🚀 How to Run Locally
 
