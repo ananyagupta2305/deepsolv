@@ -10,10 +10,10 @@ A FastAPI backend + Streamlit frontend app that scrapes Shopify stores for deep 
 💾 Stores structured data in MySQL (not raw JSON)
 🖥️ Beautiful Streamlit UI with tabs, search, export
 🚀 Deployed on Streamlit Cloud
-
-
+<br>
+📁 Project Structure
 <img width="765" height="382" alt="image" src="https://github.com/user-attachments/assets/a0e58a10-9935-41d9-bedd-2ac90ff46a98" />
-
+<br>
 ## Tech Stack
 - Python, FastAPI, MySQL, BeautifulSoup
 - Streamlit (UI), Render (Deployment)
@@ -30,4 +30,5 @@ A FastAPI backend + Streamlit frontend app that scrapes Shopify stores for deep 
 ## Screenshots
 
 ![Streamlit UI](screenshot.png)
+
 
