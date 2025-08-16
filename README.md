@@ -29,8 +29,8 @@ A FastAPI backend + Streamlit frontend app that scrapes Shopify stores for deep 
 
 ## How to Run Locally
 # 1. Clone repo
-git clone https://github.com/your-username/shopify-insights.git
-cd shopify-insights
+git clone https://github.com/ananyagupta2305/deepsolv.git<br>
+cd deepsolv
 # 2. Install dependencies
 pip install -r requirements.txt
 # 3. Run FastAPI
@@ -41,6 +41,7 @@ streamlit run frontend.py
 ## Screenshots
 
 ![Streamlit UI](screenshot.png)
+
 
 
 
