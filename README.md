@@ -2,14 +2,17 @@
 
 A FastAPI backend + Streamlit frontend app that scrapes Shopify stores for deep insights.
 
-## Features
-- ✅ Full product catalog
-- ✅ Hero products
-- ✅ Privacy & refund policies
-- ✅ FAQs, social handles, contact info
-- ✅ About brand & important links
-- ✅ Competitor analysis (Bonus)
-- ✅ MySQL persistence (Bonus)
+## ✅ Features
+🔍 Scrapes any Shopify store (without API)
+📦 Extracts product catalog, hero products, policies, FAQs
+🌐 Finds social media & contact info
+👥 Competitor analysis with same insights
+💾 Stores structured data in MySQL (not raw JSON)
+🖥️ Beautiful Streamlit UI with tabs, search, export
+🚀 Deployed on Streamlit Cloud
+
+
+<img width="765" height="382" alt="image" src="https://github.com/user-attachments/assets/a0e58a10-9935-41d9-bedd-2ac90ff46a98" />
 
 ## Tech Stack
 - Python, FastAPI, MySQL, BeautifulSoup
@@ -27,3 +30,4 @@ A FastAPI backend + Streamlit frontend app that scrapes Shopify stores for deep 
 ## Screenshots
 
 ![Streamlit UI](screenshot.png)
+
