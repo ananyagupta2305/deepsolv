@@ -11,7 +11,11 @@ A FastAPI backend + Streamlit frontend app that scrapes Shopify stores for deep 
 🖥️ Beautiful Streamlit UI with tabs, search, export
 🚀 Deployed on Streamlit Cloud
 <br>
+
+
 📁 Project Structure
+
+
 <img width="765" height="382" alt="image" src="https://github.com/user-attachments/assets/a0e58a10-9935-41d9-bedd-2ac90ff46a98" />
 <br>
 ## Tech Stack
@@ -23,12 +27,22 @@ A FastAPI backend + Streamlit frontend app that scrapes Shopify stores for deep 
 🔗 [API Endpoint](https://shopify-insights-api.onrender.com/insights)
 
 ## How to Run Locally
-1. `pip install -r requirements.txt`
-2. `uvicorn main:app --reload`
-3. `streamlit run frontend.py`
+# 1. Clone repo
+git clone https://github.com/your-username/shopify-insights.git
+cd shopify-insights
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Run FastAPI
+uvicorn app:app --reload
+
+# 4. Run Streamlit
+streamlit run frontend.py
 
 ## Screenshots
 
 ![Streamlit UI](screenshot.png)
+
 
 
