@@ -13,7 +13,7 @@ A FastAPI backend + Streamlit frontend app that scrapes Shopify stores for deep 
 <br>
 
 
-📁 Project Structure
+📁 ## Project Structure
 
 
 <img width="765" height="382" alt="image" src="https://github.com/user-attachments/assets/a0e58a10-9935-41d9-bedd-2ac90ff46a98" />
@@ -43,6 +43,7 @@ streamlit run frontend.py
 ## Screenshots
 
 ![Streamlit UI](screenshot.png)
+
 
 
 
