@@ -22,7 +22,8 @@ A FastAPI backend + Streamlit frontend app that scrapes Shopify stores for deep 
 ## How to Run Locally
 1. `pip install -r requirements.txt`
 2. `uvicorn main:app --reload`
-3. `streamlit run app.py`
+3. `streamlit run frontend.py`
 
 ## Screenshots
+
 ![Streamlit UI](screenshot.png)
